@@ -1,6 +1,6 @@
 # Проект: Путешествие по России
 
-# Ссылка на проект: https://oavl.github.io/russian-travel/
+### Ссылка на проект: https://oavl.github.io/russian-travel/
 
 ### Обзор
 * Интро
