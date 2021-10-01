@@ -1,6 +1,6 @@
 .places__item {
     display: grid;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr 484px;
     grid-template-rows: repeat(auto-fit, 1fr);
     column-gap: 40px;
     row-gap: 48px;
@@ -20,6 +20,7 @@
 @media (max-width: 1023px) {
     .places__item {
         column-gap: 28px;
+        margin-bottom: 73px;
     }
 }
 
@@ -27,5 +28,6 @@
     .places__item {
         grid-template-columns: 1fr;
         row-gap: 32px;
+        margin-bottom: 50px;
     }
 }

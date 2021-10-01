@@ -1,14 +1,12 @@
 .header__lang-link {
     font-size: 24px;
     line-height: 28px;
-
     color: #FFFFFF;
     text-decoration: none;
 }
 
 .header__lang-link:first-child {
     margin-right: 18px;
-    border-bottom: 2px #FFFFFF solid;
     padding-bottom: 2px;
 }
 

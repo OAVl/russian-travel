@@ -9,4 +9,10 @@
 * БЭМ
 * Figma
 
-### Ссылка на проект: https://oavl.github.io/russian-travel/
+### Ссылка на проект: 
+
+https://oavl.github.io/russian-travel/
+
+### Планы по доработке проекта:
+
+* Сделать англоязычную версию сайта
