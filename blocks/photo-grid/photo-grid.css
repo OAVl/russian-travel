@@ -8,6 +8,7 @@
 @media (max-width: 1023px) {
     .photo-grid {
         margin: 0 24px 88px;
+        max-width: 850px;
     }
 }
 
