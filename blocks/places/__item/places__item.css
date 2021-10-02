@@ -19,6 +19,7 @@
 
 @media (max-width: 1023px) {
     .places__item {
+        grid-template-columns: 1fr 352px;
         column-gap: 28px;
         margin-bottom: 73px;
     }
